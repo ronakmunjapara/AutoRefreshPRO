@@ -1,6 +1,4 @@
-Certainly! Below is a template for a GitHub README file for your Auto Refresh PRO Chrome extension project. This README should provide users and developers with information on how to use and contribute to your project.
 
----
 
 # Auto Refresh PRO Chrome Extension
 
@@ -59,7 +57,7 @@ git push origin feature/your-feature-name
 
 ## Privacy Policy
 
-Please review our [Privacy Policy](insert_link_here) for details on how we handle user data.
+Please review our [Privacy Policy]([insert_link_here](https://sideways-fir-155.notion.site/Auto-Refresh-PRO-Privacy-Policy-67c2e8caa6364a8f978f4befe104863d?pvs=4)) for details on how we handle user data.
 
 ## Feedback and Support
 
@@ -69,6 +67,4 @@ We value your feedback! If you have questions, suggestions, or encounter issues,
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Ensure to replace "your-username" in the repository clone link, "insert_link_here" in the Privacy Policy section, and update any other placeholders with accurate information. Also, consider including additional sections or information relevant to your specific project.
