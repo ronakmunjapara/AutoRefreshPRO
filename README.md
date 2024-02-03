@@ -17,7 +17,7 @@ Auto Refresh PRO is a Chrome extension that automates the process of refreshing 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/auto-refresh-pro.git
+git clone https://github.com/ronakmunjapara/AutoRefreshPRO.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
