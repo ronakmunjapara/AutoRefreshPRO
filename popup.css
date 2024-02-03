@@ -1,0 +1,69 @@
+/* popup.css */
+
+html
+{
+    width: 345px; /* max: 1000px */
+    height: 205px; /* max: 750px */
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2; /* Light gray background */
+  }
+  
+  .container {
+    max-width: 300px;
+    margin: 0 auto; /* Center horizontally */
+    padding: 20px;
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 3px; /* Rounded corners */
+  }
+  
+  .button-group {
+    text-align: center;
+  }
+  
+  .button-group button {
+    margin-right: 10px; /* Space between buttons */
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px; /* Rounded corners */
+    background-color: #3498db; /* Blue */
+    color: white;
+    cursor: pointer;
+  }
+  
+  .button-group button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+  }
+  
+  .start-button {
+    background-color: #2ecc71; /* Green */
+  }
+  
+  .stop-button {
+    background-color: #e74c3c; /* Red */
+  }
+  

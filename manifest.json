@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Refresh PRO",
+    "version": "1.0",
+    "description": "Automatically refreshes the current page at a user-specified interval.",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
