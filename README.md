@@ -1,6 +1,7 @@
 
 
 # Auto Refresh PRO Chrome Extension
+![Auto Refresh](https://github.com/ronakmunjapara/AutoRefreshPRO/assets/43374534/4aff2b2b-45e0-4565-bb68-a6f4f4fd7dc5)
 
 ## Overview
 
@@ -61,7 +62,7 @@ Please review our [Privacy Policy]([insert_link_here](https://sideways-fir-155.n
 
 ## Feedback and Support
 
-We value your feedback! If you have questions, suggestions, or encounter issues, please contact our support team at support@autorefreshpro.com.
+We value your feedback! If you have questions, suggestions, or encounter issues, please contact our support team at munjapararonak1@gmail.com.
 
 ## License
 
